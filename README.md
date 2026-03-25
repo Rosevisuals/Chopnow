@@ -11,10 +11,10 @@ ChopNow challenges that.
 It answers:
 
 “I’m tired — what should I eat?”
-“I only have 10k — what fits?”
+“I only have 10k  what fits?”
 “What can get here fastest?”
 
-This is not just food delivery — it's decision support for real-life behavior.
+This is not just food delivery  it's decision support for real-life behavior.
 
 🎯 Core Features
 🧠 Mood-Based Recommendations
@@ -89,6 +89,5 @@ Reusability across screens
 🎥 Key Flows Demonstrated
 Mood-based food selection
 Budget filtering
-Fast delivery sorting
-Checkout flow
-🔥 Key UX Decisions (What Most People Miss)
+
+
