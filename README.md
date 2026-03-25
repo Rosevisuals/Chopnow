@@ -1,6 +1,6 @@
 🍽️ ChopNow — Mood-Based Food Delivery App
 
-ChopNow is a human-centered food delivery app that rethinks how people choose meals. Instead of forcing users to search endlessly, ChopNow adapts to human behavior — recommending food based on mood, budget, time, and location.
+ChopNow is a human-centered food delivery app that rethinks how people choose meals. Instead of forcing users to search endlessly, ChopNow adapts to human behavior  recommending food based on mood, budget, time, and location.
 
 🚀 Concept
 
